@@ -1,14 +1,6 @@
 # MLH Localhost <> Capital One
 
-This project contains the starter code for Basic Training: Bot Camp!
-
-Your Project
-------------
-Click `Show` above and it will launch the app in a new browser tab. It starts by running the `main.py` program.
-
-### ← README.md
-
-That's this file!
+This project contains my MLH starter code for Basic Training: Bot Camp!
 
 ### ← twitter_scraper_fetcher.py
 
