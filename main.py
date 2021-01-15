@@ -24,8 +24,7 @@ def generate_message(body, methods=["POST"]):
 
   try:
     # Send the answer to the app, to display to the user
-    #bot_answer = generate_bot_answer(twitter_handle, question)
-    #answer = {"username": twitter_handle, "message": bot_answer}
+
     clean_tweets = clean_tweets_data(tweets)
     
     single_tweet = random.choice(tweets)
